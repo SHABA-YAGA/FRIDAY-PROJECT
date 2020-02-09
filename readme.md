@@ -4,6 +4,8 @@ This is a website describing myself
 
 This a beginner's attempt at web development, take a look through for that perspective
 
+https://github.com/SHABA-YAGA/FRIDAY-PROJECT
+
 MIT License
 
 Copyright (c) [2020] [Ibrahim Shabaz Farah]
