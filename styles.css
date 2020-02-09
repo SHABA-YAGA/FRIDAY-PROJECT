@@ -1,0 +1,12 @@
+body {
+  font-family: monospace;
+  background-image: url(images/naruto.jpg)
+}
+h1 {
+  background-color: orange;
+  border: 10px solid Black;
+}
+ul {
+  background-color: orange;
+  border: 10px solid Black;
+}
